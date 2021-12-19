@@ -13,8 +13,8 @@ vscode:
   extensions:
     - svelte.svelte-vscode
 
-  github:
-    prebuilds:
-      master: true
-      branches: true
-      pullResquests: true
+github:
+  prebuilds:
+    master: true
+    branches: true
+    pullResquests: true
